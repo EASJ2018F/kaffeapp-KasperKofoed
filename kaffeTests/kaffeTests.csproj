@@ -51,6 +51,7 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="FlatWhiteTests.cs" />
     <Compile Include="KaffeTests.cs" />
     <Compile Include="LatteTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
